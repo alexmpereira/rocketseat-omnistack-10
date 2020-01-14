@@ -1,0 +1,2 @@
+- Instalando dependências: _yarn install_
+- Rodar o projeto: _yarn dev_
